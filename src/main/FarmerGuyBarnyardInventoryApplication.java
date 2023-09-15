@@ -2,7 +2,7 @@ package main;
 
 import animals.*;
 
-public class FarmerAlBarnyardInventoryApplication {
+public class FarmerGuyBarnyardInventoryApplication {
 
 	public static void main(String[] args) {
 		// New solution
